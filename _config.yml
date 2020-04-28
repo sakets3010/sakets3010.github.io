@@ -206,14 +206,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  -_config.yml
-  - /_layouts
-  - /_includes
-  - /css
-  - /img
-  - /js
-  
-  metadata:
+   metadata:
     _posts:
       - name: "layout"
         field:
