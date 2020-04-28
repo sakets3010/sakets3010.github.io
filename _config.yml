@@ -206,7 +206,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-   metadata:
+   
+  metadata:
     _posts:
       - name: "layout"
         field:
