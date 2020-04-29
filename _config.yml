@@ -23,7 +23,7 @@ description: Project Stash.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
+     - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Saket Singh
+  name: SAKET SINGH
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,16 +68,16 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: sakets3010@gmail.com
-  facebook: profile.php?id=100038965732158
-  github: sakets3010
-#  linkedin: 
-  instagram: sakets3010
+  email: tjacob7911@gmail.com
+  facebook: thomas.jacob.1614460
+  github: thomas-jac
+  linkedin: thomas-jacob-12baa0138
+  instagram: tjac.718
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
- snapchat: sakets_3010
+#  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
@@ -208,7 +208,7 @@ prose:
     - /_layouts
     - /_includes
     - /css
-    - /img2
+    - /img
     - /js
   metadata:
     _posts:
